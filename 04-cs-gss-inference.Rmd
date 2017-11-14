@@ -30,16 +30,6 @@ gss16 <- read_csv("data/gss16_excerpt.csv")
 ```
 
 
-### Tasks
+### Task
 
-#### 1. Evolution
-
-...
-
-#### 2. Evolution vs. party affiliation
-
-...
-
-#### 3. Email
-
-...
+Add your answers here...
