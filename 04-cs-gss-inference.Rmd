@@ -1,0 +1,45 @@
+---
+title: "Inferring from the GSS"
+author: "Team Name"
+date: "November 15, 2017"
+output: 
+  html_document: 
+    fig_height: 4
+    highlight: pygments
+    keep_md: yes
+    theme: sandstone
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Setup
+
+### Load packages
+
+```{r load-packages, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(infer)
+```
+
+### Load data
+
+```{r load-data, message=FALSE}
+gss16 <- read_csv("data/gss16_excerpt.csv")
+```
+
+
+### Tasks
+
+#### 1. Evolution
+
+...
+
+#### 2. Evolution vs. party affiliation
+
+...
+
+#### 3. Email
+
+...
